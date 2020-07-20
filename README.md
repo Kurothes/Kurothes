@@ -1,4 +1,8 @@
-### Hi there 👋
+# About me
+
+I'm a small time developer, still in Training.
+
+Feel free to use any of my stuff. I have nothing else to add.
 
 <!--
 **Kurothes/Kurothes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
